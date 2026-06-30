@@ -99,7 +99,7 @@ I'm **Nikitha** — a final-year Computer Science student at Dayananda Sagar Uni
 <div align="center">
 
 
-<img width="100%" height="235" src="https://github-readme-activity-graph.vercel.app/graph?username=nikitha11925&bg_color=000000&color=FFB3DE&line=00F0FF&point=FF2E97&area=true&area_color=#000000&hide_border=false&radius=16&custom_title=commit%20stream" />
+<img width="50%" height="235" src="https://github-readme-activity-graph.vercel.app/graph?username=nikitha11925&bg_color=000000&color=FFB3DE&line=00F0FF&point=FF2E97&area=true&area_color=#000000&hide_border=false&radius=16&custom_title=commit%20stream" />
 
 
 [![GitHub Stats](https://helio-github-stats.vercel.app/api?username=nikitha11925&custom_title=GitHub+Stats&theme=merko&title_color=c2dcff&text_color=ffade1&icon_color=5d6689&ring_color=5a6b81&border_color=ffb8e1&hide_border=false&locale=en&border_radius=4.5&card_width=300&hide_title=true&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
