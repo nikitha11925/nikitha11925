@@ -19,7 +19,7 @@
 <tr>
 <td valign="middle" align="center">
 
-<img height="120" src="https://raw.githubusercontent.com/nikitha11925/Nikitha/main/wave.gif" alt="waving pixel Nikitha" />
+<img height="120" src="https://raw.githubusercontent.com/nikitha11925/nikitha11925/main/wave.gif" alt="waving pixel Nikitha" />
 
 </td>
 <td valign="middle">
