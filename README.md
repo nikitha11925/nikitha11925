@@ -104,7 +104,7 @@ I'm **Nikitha** — a final-year Computer Science student at Dayananda Sagar Uni
 
 [![GitHub Stats](https://helio-github-stats.vercel.app/api?username=nikitha11925&custom_title=GitHub+Stats&theme=merko&title_color=c2dcff&text_color=ffade1&icon_color=5d6689&ring_color=5a6b81&border_color=ffb8e1&hide_border=false&locale=en&border_radius=4.5&card_width=300&hide_title=true&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
 [![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=nikitha11925&theme=graywhite&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=150&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false)](https://nice-readme.vercel.app/streak-stats)
-[![](https://helio-github-stats.vercel.app/api/top-langs?username=nikitha11925&layout=compact&stats_format=percentages&theme=dark&hide_border=true&border_radius=4.5&card_width=466&locale=pt-br&hide_title=true&langs_count=6)](https://nice-readme.vercel.app/top-langs)
+[![Linguagens mais usadas](https://helio-github-stats.vercel.app/api/top-langs?username=nikitha11925&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&hide_title=true&langs_count=7&size_weight=0.7&count_weight=0.5)](https://nice-readme.vercel.app/top-langs)
 
 ---
 </div>
